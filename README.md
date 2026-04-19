@@ -17,7 +17,7 @@
 <!-- 👇 COLOQUE AQUI A IMAGEM 1 (print do código Python)  -->
 <!-- Nome do arquivo: assets/codigo_setup.jpg             -->
 <!-- ===================================================== -->
-![Código do Projeto](assets/1.jpg)
+![Código do Projeto](assets/1111.jpg)
 
 ---
 
