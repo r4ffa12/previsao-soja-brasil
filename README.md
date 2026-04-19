@@ -55,7 +55,7 @@ O estudo foi desenvolvido como parte do aprimoramento de habilidades em **Ciênc
 <!-- 👇 COLOQUE AQUI A IMAGEM 7 (O Epicentro do Agronegócio Global)   -->
 <!-- Nome do arquivo: assets/epicentro_agronegocio.jpg                -->
 <!-- ================================================================ -->
-![Epicentro do Agronegócio Global](assets/epicentro_agronegocio.jpg)
+![Epicentro do Agronegócio Global](assets/7.jpg)
 
 O agronegócio brasileiro é um pilar fundamental da economia nacional:
 
@@ -73,7 +73,7 @@ O agronegócio brasileiro é um pilar fundamental da economia nacional:
 <!-- 👇 COLOQUE AQUI A IMAGEM 8 (A Anatomia da Volatilidade Extrema)  -->
 <!-- Nome do arquivo: assets/volatilidade_extrema.jpg                 -->
 <!-- ================================================================ -->
-![Anatomia da Volatilidade Extrema](assets/volatilidade_extrema.jpg)
+![Anatomia da Volatilidade Extrema](assets/8.jpg)
 
 O preço da soja saiu de **R$ 37,91/saca em 2010** para **R$ 185,93/saca em 2022** — um aumento nominal de **+490%**, impulsionado por três grandes choques:
 
@@ -91,7 +91,7 @@ O preço da soja saiu de **R$ 37,91/saca em 2010** para **R$ 185,93/saca em 2022
 <!-- 👇 COLOQUE AQUI A IMAGEM 5 (Tabela do dataset com as variáveis)  -->
 <!-- Nome do arquivo: assets/dataset_preview.jpg                      -->
 <!-- ================================================================ -->
-![Preview do Dataset](assets/dataset_preview.jpg)
+![Preview do Dataset](assets/5.jpg)
 
 O dataset abrange o período de **2000 a 2023** com dados mensais/anuais das três principais culturas brasileiras:
 
@@ -121,7 +121,7 @@ O dataset abrange o período de **2000 a 2023** com dados mensais/anuais das tr�
 <!-- 👇 COLOQUE AQUI A IMAGEM 3 (Evolução da Produção + Fertilizantes)    -->
 <!-- Nome do arquivo: assets/evolucao_producao.jpg                        -->
 <!-- ==================================================================== -->
-![Evolução da Produção Agrícola](assets/evolucao_producao.jpg)
+![Evolução da Produção Agrícola](assets/3.jpg)
 
 ### Evolução da Produção Agrícola (2000–2023)
 
@@ -139,7 +139,7 @@ A análise temporal revelou que a **cana-de-açúcar** apresentou o crescimento 
 <!-- 👇 COLOQUE AQUI A IMAGEM 4 (Matriz de Correlação das Variáveis)      -->
 <!-- Nome do arquivo: assets/matriz_correlacao.jpg                        -->
 <!-- ==================================================================== -->
-![Matriz de Correlação](assets/matriz_correlacao.jpg)
+![Matriz de Correlação](assets/4.jpg)
 
 ### Principais Achados
 
@@ -183,7 +183,7 @@ A análise temporal revelou que a **cana-de-açúcar** apresentou o crescimento 
 <!-- 👇 COLOQUE AQUI A IMAGEM 9 (O Embate Metodológico — tabela comparativa)-->
 <!-- Nome do arquivo: assets/embate_metodologico.jpg                        -->
 <!-- ====================================================================== -->
-![Embate Metodológico](assets/embate_metodologico.jpg)
+![Embate Metodológico](assets/9.jpg)
 
 | Critério | Modelos Tradicionais (ARIMA/SARIMA) | Machine Learning (MLP/LSTM) |
 |----------|--------------------------------------|------------------------------|
@@ -215,7 +215,7 @@ Seis modelos foram treinados e avaliados comparativamente:
 <!-- 👇 COLOQUE AQUI A IMAGEM 2 (O Veredito Empírico — gráfico MAPE)        -->
 <!-- Nome do arquivo: assets/veredito_empirico.jpg                          -->
 <!-- ====================================================================== -->
-![Veredito Empírico](assets/veredito_empirico.jpg)
+![Veredito Empírico](assets/2.jpg)
 
 ### Ranking Final por MAPE (Mean Absolute Percentage Error)
 
@@ -234,7 +234,7 @@ Seis modelos foram treinados e avaliados comparativamente:
 <!-- 👇 COLOQUE AQUI A IMAGEM 6 (Real vs Previsto — Regressão e Random Forest) -->
 <!-- Nome do arquivo: assets/real_vs_previsto.jpg                           -->
 <!-- ====================================================================== -->
-![Real vs Previsto](assets/real_vs_previsto.jpg)
+![Real vs Previsto](assets/6.jpg)
 
 ### O que significa 0,90% de MAPE na prática?
 
@@ -248,7 +248,7 @@ Para uma saca cotada a **R$ 185,93**, o erro médio do MLP é de aproximadamente
 <!-- 👇 COLOQUE AQUI A IMAGEM 10 (Slide de conclusão final)                 -->
 <!-- Nome do arquivo: assets/conclusao.jpg                                  -->
 <!-- ====================================================================== -->
-![Conclusão](assets/conclusao.jpg)
+![Conclusão](assets/10.jpg)
 
 > *"Modelos baseados em Deep e Machine Learning não são apenas ferramentas de análise superior; eles são o novo padrão ouro para a sobrevivência e lucratividade em mercados de commodities de alta volatilidade."*
 
