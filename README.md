@@ -324,7 +324,7 @@ tensorflow>=2.12.0
 
 Projeto desenvolvido para aprimorar habilidades em Ciência de Dados aplicada ao Agronegócio Brasileiro.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Braulio-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Braulio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-braulio/)
 [![GitHub](https://img.shields.io/badge/GitHub-r4ffa12-black?style=for-the-badge&logo=github)](https://github.com/r4ffa12)
 
 ---
