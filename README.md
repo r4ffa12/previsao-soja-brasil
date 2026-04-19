@@ -41,7 +41,7 @@
 
 ## 🎯 Sobre o Projeto
 
-Este projeto tem como objetivo construir e comparar modelos preditivos — tradicionais e baseados em Inteligência Artificial — para a **previsão de preços da soja no mercado brasileiro**, um dos mercados de commodities mais relevantes do mundo.
+Este projeto tem como objetivo construir e comparar modelos preditivos tradicionais e baseados em Inteligência Artificial para a **previsão de preços da soja no mercado brasileiro**, um dos mercados de commodities mais relevantes do mundo.
 
 O estudo foi desenvolvido como parte do aprimoramento de habilidades em **Ciência de Dados aplicada ao Agronegócio**, cobrindo todas as etapas de um pipeline completo de Data Science: coleta, tratamento, análise exploratória, engenharia de features, modelagem e avaliação.
 
@@ -75,7 +75,7 @@ O agronegócio brasileiro é um pilar fundamental da economia nacional:
 <!-- ================================================================ -->
 ![Anatomia da Volatilidade Extrema](assets/8.jpg)
 
-O preço da soja saiu de **R$ 37,91/saca em 2010** para **R$ 185,93/saca em 2022** — um aumento nominal de **+490%**, impulsionado por três grandes choques:
+O preço da soja saiu de **R$ 37,91/saca em 2010** para **R$ 185,93/saca em 2022**  um aumento nominal de **+490%**, impulsionado por três grandes choques:
 
 - **2012 — Choque Climático:** Fenômeno La Niña afetou as safras sul-americanas
 - **2016 — Retração Industrial:** Queda na demanda por farelo alterou a dinâmica de esmagamento
@@ -238,7 +238,7 @@ Seis modelos foram treinados e avaliados comparativamente:
 
 ### O que significa 0,90% de MAPE na prática?
 
-Para uma saca cotada a **R$ 185,93**, o erro médio do MLP é de aproximadamente **R$ 1,67 por saca** — enquanto o modelo linear erra cerca de **R$ 31,21 por saca**. Para exportadores e cooperativas operando com contratos futuros, essa diferença representa diretamente **proteção de margem e vantagem competitiva**.
+Para uma saca cotada a **R$ 185,93**, o erro médio do MLP é de aproximadamente **R$ 1,67 por saca** enquanto o modelo linear erra cerca de **R$ 31,21 por saca**. Para exportadores e cooperativas operando com contratos futuros, essa diferença representa diretamente **proteção de margem e vantagem competitiva**.
 
 ---
 
