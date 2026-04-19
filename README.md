@@ -48,6 +48,7 @@ O estudo foi desenvolvido como parte do aprimoramento de habilidades em **Ciênc
 > **Pergunta central:** *É possível prever com precisão os preços da soja num mercado que sofreu variação de 490% em 12 anos, sujeito a choques climáticos, pandemias e volatilidade geopolítica?*
 
 ---
+![Real vs Previsto](assets/6.jpg) 
 
 ## 🌍 Contexto e Motivação
 
@@ -228,13 +229,12 @@ Seis modelos foram treinados e avaliados comparativamente:
 | 5º | ARIMA c/ XGBoost | 9,24% | -44,9% |
 | 6º | Modelo Linear (LM) | 16,79% | — (baseline) |
 
-### Gráficos Real vs. Previsto
+
 
 <!-- ====================================================================== -->
 <!-- 👇 COLOQUE AQUI A IMAGEM 6 (Real vs Previsto — Regressão e Random Forest) -->
 <!-- Nome do arquivo: assets/real_vs_previsto.jpg                           -->
 <!-- ====================================================================== -->
-![Real vs Previsto](assets/6.jpg)
 
 ### O que significa 0,90% de MAPE na prática?
 
