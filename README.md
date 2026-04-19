@@ -55,7 +55,7 @@ O estudo foi desenvolvido como parte do aprimoramento de habilidades em **Ciênc
 <!-- 👇 COLOQUE AQUI A IMAGEM 7 (O Epicentro do Agronegócio Global)   -->
 <!-- Nome do arquivo: assets/epicentro_agronegocio.jpg                -->
 <!-- ================================================================ -->
-![Epicentro do Agronegócio Global](assets/7.jpg)
+![Epicentro do Agronegócio Global](assets/8.jpg)
 
 O agronegócio brasileiro é um pilar fundamental da economia nacional:
 
@@ -73,7 +73,7 @@ O agronegócio brasileiro é um pilar fundamental da economia nacional:
 <!-- 👇 COLOQUE AQUI A IMAGEM 8 (A Anatomia da Volatilidade Extrema)  -->
 <!-- Nome do arquivo: assets/volatilidade_extrema.jpg                 -->
 <!-- ================================================================ -->
-![Anatomia da Volatilidade Extrema](assets/8.jpg)
+![Anatomia da Volatilidade Extrema](assets/7.jpg)
 
 O preço da soja saiu de **R$ 37,91/saca em 2010** para **R$ 185,93/saca em 2022**  um aumento nominal de **+490%**, impulsionado por três grandes choques:
 
@@ -91,7 +91,7 @@ O preço da soja saiu de **R$ 37,91/saca em 2010** para **R$ 185,93/saca em 2022
 <!-- 👇 COLOQUE AQUI A IMAGEM 5 (Tabela do dataset com as variáveis)  -->
 <!-- Nome do arquivo: assets/dataset_preview.jpg                      -->
 <!-- ================================================================ -->
-![Preview do Dataset](assets/5.jpg)
+![Preview do Dataset](assets/22.jpg)
 
 O dataset abrange o período de **2000 a 2023** com dados mensais/anuais das três principais culturas brasileiras:
 
@@ -285,7 +285,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 | Deep Learning | TensorFlow / Keras (MLP, LSTM) |
 | Modelos Estatísticos | Statsmodels (ARIMA, SARIMA, ETS) |
 | Boosting | XGBoost |
-| Ambiente | Jupyter Notebook |
+| Ambiente | Colab |
 
 ---
 
@@ -302,7 +302,6 @@ scikit-learn>=1.3.0
 statsmodels>=0.14.0
 xgboost>=1.7.0
 tensorflow>=2.12.0
-jupyter>=1.0.0
 ```
 
 ---
