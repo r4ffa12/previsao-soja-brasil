@@ -48,7 +48,7 @@ O estudo foi desenvolvido como parte do aprimoramento de habilidades em **Ciênc
 > **Pergunta central:** *É possível prever com precisão os preços da soja num mercado que sofreu variação de 490% em 12 anos, sujeito a choques climáticos, pandemias e volatilidade geopolítica?*
 
 ---
-![Real vs Previsto](assets/6.jpg) 
+
 
 ## 🌍 Contexto e Motivação
 
@@ -67,6 +67,8 @@ O agronegócio brasileiro é um pilar fundamental da economia nacional:
 | Share da produção global | **37,72%** (Líder Mundial) |
 | Área plantada total | **74,5 milhões de hectares** |
 | Parcela exportada para a China | **59,09%** |
+
+![Real vs Previsto](assets/6.jpg) 
 
 ### A Anatomia da Volatilidade (2010–2022)
 
